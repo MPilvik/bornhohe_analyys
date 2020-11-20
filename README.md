@@ -7,7 +7,7 @@ Vajaliku juhendi programmide ja pakettide installeerimiseks leiab Tartu Ülikool
 Lühike versioon juhendist on järgmine:
 
 ## Anaconda ja EstNLTK installeerimine
-- Laadi alla Anaconda installimise fail ja installi programm.
+- Laadi alla [Anaconda installimise fail](https://www.anaconda.com/products/individual) ja installi programm.
 - Käivita programm Anaconda Prompt.
 - Loo avanenud aknas uus keskkond, kuhu installid Pythoni versiooni 3.6: `conda create --name keelanalyys python=3.6` (kui vahepeal midagi küsitakse, trüki `y`).
 - Aktiveeri keskkond: `conda activate keeleanalyys` (keskkonna desaktiveerimiseks trüki `conda deactivate`).  
